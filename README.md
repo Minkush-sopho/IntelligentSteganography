@@ -3,7 +3,7 @@ Steganography is the practice of concealing a file, message, image, or video wit
 Here in this code it is done on an image and can be extended for videos and other files also.
 
 # Why Intelligent ?
-It is Inelligent because in this the message is hidden intelligently in a way that it finds specific areas in the image where, on changing the bits, there should be minimum perceptible noise thus making it hard to detect any change by physically observing the image.
+It is Intelligent because in this the message is hidden intelligently in a way that it finds specific areas in the image where, on changing the bits, there should be minimum perceptible noise thus making it hard to detect any change by physically observing the image.Also to make the noise less only the least significant bit of every color of the pixel has been changed.
 
 # Dependencies 
 OpenCv, Numpy and Matplotlib
